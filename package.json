@@ -1,0 +1,12 @@
+{
+  "name": "family-game-server",
+  "version": "1.0.0",
+  "description": "Zero-dependency Room Code & Relay Server for Family Horror Game",
+  "main": "signaling_server.js",
+  "scripts": {
+    "start": "node signaling_server.js"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
